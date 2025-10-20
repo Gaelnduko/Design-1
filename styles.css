@@ -3,5 +3,5 @@
   width: 200%;
   display: flex;
   padding: 300px;
-  background: linear-gradient(to bottom, rgb(7, 7, 7), rgb(73, 73, 73));
+  background: linear-gradient(to bottom, rgb(7, 7, 7), rgb(7, 7, 7));
 }
